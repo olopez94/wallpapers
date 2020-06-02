@@ -2,7 +2,8 @@
 <p>My entire wallpaper and background folder.</p>
 
 <h2> Origin </h2>
-(/wg/)[https://boards.4chan.org/wg/]
+
+[/wg/](https://boards.4chan.org/wg/) & [r/wallpaper](https://www.reddit.com/r/wallpaper/)
 
 <h2> Sorting </h2>
 I sort things into really general folders.
